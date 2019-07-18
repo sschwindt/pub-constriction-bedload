@@ -1,6 +1,6 @@
 # Effects of Lateral and Vertical Constrictions on Flow in Rough Steep Channels with Bedload
 
-This repository contains data used in "Effects of Lateral and Vertical Constrictions on Flow in Rough Steep Channels with Bedload".
+This repository contains data used in ["Effects of Lateral and Vertical Constrictions on Flow in Rough Steep Channels with Bedload"](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29HY.1943-7900.0001389).
 
 The data stem from laboratory experiments with the setup described in my PhD thesis ([Schwindt 2017](https://infoscience.epfl.ch/record/229862/files/EPFL_TH7655.pdf?version=1)). Data processing was done with *Python* (see [pydroscape](https://sschwindt.github.io/pydroscape/)) and *Matlab* / *Octave* codes.
 
@@ -13,7 +13,7 @@ Suggested citation:
 LaTex / Bibtex Users:
 
 ```
-@Article{schwindt16b,
+@Article{schwindt17b,
   author    = {Schwindt, Sebastian and Franca, M\'ario J and Schleiss, Anton J},
   title     = {Effects of lateral and vertical constrictions on flow in rough steep channels with bedload},
   journal   = {Journal of Hydraulic Engineering},
