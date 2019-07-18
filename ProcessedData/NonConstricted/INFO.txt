@@ -1,0 +1,1 @@
+--> Resultate von SECTIONWISE werden für die Analyse verwendet (numerische Stabilität).
