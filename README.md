@@ -42,3 +42,5 @@ In addition, the analysis types contain particular subfolders:
 The **`ProcessedData/Plots/`** folder contains *Matlab* / *Octave* (`.m`) codes for producing the plots (figures) for the paper.
 
 The **`ProcessedData/Statistic/`** folder contains *Matlab* / *Octave* (`.m`) codes for data regression (curves) shown in figures and tables. 
+
+The files `MountainRiverInventory.xlsx` contains data that served for the design of the experimental setup.
