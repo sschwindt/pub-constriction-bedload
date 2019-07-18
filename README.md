@@ -1,4 +1,11 @@
-# Effects of Lateral and Vertical Constrictions on Flow in Rough Steep Channels with Bedload
+Folder and file summary:
+
+ - `RawData/`
+ - `ProcessedData/`
+ - `ApplicationExample_Codes/`
+ - `MountainRiverInventory.xlsx`
+ 
+***
 
 This repository contains data used in ["Effects of Lateral and Vertical Constrictions on Flow in Rough Steep Channels with Bedload"](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29HY.1943-7900.0001389).
 
