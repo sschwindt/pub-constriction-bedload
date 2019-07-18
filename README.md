@@ -43,4 +43,6 @@ The **`ProcessedData/Plots/`** folder contains *Matlab* / *Octave* (`.m`) codes 
 
 The **`ProcessedData/Statistic/`** folder contains *Matlab* / *Octave* (`.m`) codes for data regression (curves) shown in figures and tables. 
 
+The **`ApplicationExample_Codes/`** folder contains codes that illustrate the application case (main: `Qc_mu.m`).
+
 The files `MountainRiverInventory.xlsx` contains data that served for the design of the experimental setup.
